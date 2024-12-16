@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "eccomerce-frontend-master",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.21.5",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.4.48"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
+  },
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "serve": "vite preview",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
